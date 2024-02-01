@@ -248,9 +248,9 @@ If you wish how I can perform these calculation through coding, you can check th
 <!-- CONTACT -->
 ## Contact
 
-Truong Gia Ky Nam - [Truong Gia Ky Nam](https://www.facebook.com/TruongGiaKyNam) - nam.truonggiaky@hcmut.edu.vn
+Truong Gia Ky Nam - 2352787 - [Truong Gia Ky Nam](https://www.facebook.com/TruongGiaKyNam) - nam.truonggiaky@hcmut.edu.vn
 
-Project Link: [([https://github.com/your_username/repo_name](https://github.com/TruongMarco1305/taxCalculator.git))](https://github.com/TruongMarco1305/taxCalculator.git)
+Project Link: [https://github.com/TruongMarco1305/taxCalculator.git](https://github.com/TruongMarco1305/taxCalculator.git)
 
 
 
