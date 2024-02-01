@@ -250,7 +250,7 @@ If you wish how I can perform these calculation through coding, you can check th
 
 Truong Gia Ky Nam - [Truong Gia Ky Nam](https://www.facebook.com/TruongGiaKyNam) - nam.truonggiaky@hcmut.edu.vn
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [([https://github.com/your_username/repo_name](https://github.com/TruongMarco1305/taxCalculator.git))](https://github.com/TruongMarco1305/taxCalculator.git)
 
 
 
